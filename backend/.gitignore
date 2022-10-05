@@ -1,0 +1,2 @@
+monogoose compass:mongodb://localhost:27017
+monogoose online:mongodb+srv://sci2022:Rapheal2012@mernapp.smz8inn.mongodb.net/?retryWrites=true&w=majority
